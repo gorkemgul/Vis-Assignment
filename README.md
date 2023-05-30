@@ -33,7 +33,7 @@ In this project:
 
 Parameters that I used: 
 - lr: 0.01
-- optimizer: Adam
+- optimizer: SGD
 - image size: 640x640
 - device: GPU
 - batch size: 8
@@ -48,7 +48,7 @@ In this project:
 
 Parameters that I used:
 - lr: 0.01
-- optimizer: Adam
+- optimizer: SGD
 - image size: 1280x1280
 - device: GPU
 - batch size: 8
