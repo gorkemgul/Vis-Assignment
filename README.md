@@ -54,3 +54,5 @@ Parameters that I used:
 - batch size: 8
 - epochs = 100
 
+### Important Notes:
+- Trained Model Weights weren't shared due to the memory limitation of GitHub.
