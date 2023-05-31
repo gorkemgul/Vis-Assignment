@@ -56,3 +56,7 @@ Parameters that I used:
 
 ### Important Notes:
 - Trained Model Weights weren't shared due to the memory limitation of GitHub.
+- I've visualized the results but in case you want to see all the outputs you may find them in these locations:
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-1 is located here: (`AssignmentExp-1/ultralytics/runs/detect/`)
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-2 is located here: (`AssignmentExp-2/ultralytics/runs/detect/`)
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-3 is located here: (`AssignmentExp-3/ultralytics/runs/detect/`)
