@@ -39,7 +39,7 @@ Parameters that I used:
 - batch size: 8
 - epochs = 100
 
-### Assignment Experiment-3 (Will be Added)
+### Assignment Experiment-3 
 In this project:
 - An object detection model trained on Colab and The model YoloV8 used for training.
 - Data was separated as train, test and validation (%70 used for training, %20 used for validation and lastly %10 used for test).
@@ -51,8 +51,12 @@ Parameters that I used:
 - optimizer: SGD
 - image size: 1280x1280
 - device: GPU
-- batch size: 8
+- batch size: 4
 - epochs = 100
 
 ### Important Notes:
 - Trained Model Weights weren't shared due to the memory limitation of GitHub.
+- I've visualized the results but in case you want to see all the outputs you may find them in these locations:
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-1 is located here: (`AssignmentExp-1/ultralytics/runs/detect/`)
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-2 is located here: (`AssignmentExp-2/ultralytics/runs/detect/`)
+  - Outputs (training, validation and prediction) of the trained model of Assignment Project-3 is located here: (`AssignmentExp-3/ultralytics/runs/detect/`)

@@ -4,10 +4,3 @@ test: ../test/images
 
 nc: 2
 names: ['SignStore', 'Utility Pole Information Plate']
-
-roboflow:
-  workspace: gorkem-gul-aw8m8
-  project: mapl3
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/gorkem-gul-aw8m8/mapl3/dataset/1
