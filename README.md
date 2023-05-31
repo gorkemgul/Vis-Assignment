@@ -39,7 +39,7 @@ Parameters that I used:
 - batch size: 8
 - epochs = 100
 
-### Assignment Experiment-3 (Will be Added)
+### Assignment Experiment-3 
 In this project:
 - An object detection model trained on Colab and The model YoloV8 used for training.
 - Data was separated as train, test and validation (%70 used for training, %20 used for validation and lastly %10 used for test).
@@ -51,7 +51,7 @@ Parameters that I used:
 - optimizer: SGD
 - image size: 1280x1280
 - device: GPU
-- batch size: 8
+- batch size: 4
 - epochs = 100
 
 ### Important Notes:
